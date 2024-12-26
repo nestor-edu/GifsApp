@@ -1,5 +1,7 @@
 # GifsApp
 
+Web app that search and load gifs images from Giphy API https://developers.giphy.com
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
 ## Development server
